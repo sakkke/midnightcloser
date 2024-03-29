@@ -1,0 +1,4 @@
+name: MidnightCloser
+main: dev.sakkke.midnightCloser.MidnightCloser
+version: 0.1.0
+api-version: 1.20
