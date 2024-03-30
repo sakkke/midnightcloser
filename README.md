@@ -16,6 +16,11 @@ ensuring routine resets without manual intervention.
 2. Place the downloaded `.jar` file into your Minecraft server's `plugins` directory.
 3. Start or restart your server.
 
+## Usage
+
+After installing this plugin, it will automatically shut down your server daily at the configured time, enhancing
+performance with minimal fuss.
+
 ## License
 
 [MIT](./LICENSE)
