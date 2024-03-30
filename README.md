@@ -1,1 +1,5 @@
 # MidnightCloser
+
+# License
+
+[MIT](./LICENSE)
